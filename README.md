@@ -1,7 +1,9 @@
-##Bievenido al repositorio oficial de 21Zam03!
+<h1 align="center"> App_Calculadora </h1>
+<p>Este proyecto consiste en una calculadora simple desarrollada en Java utilizando la biblioteca Swing para la interfaz gráfica de usuario. La calculadora es capaz de realizar operaciones básicas como suma, resta, multiplicación y división.</p>
 
-Proyecto: App_Calculadora 
-Programador: Jose Zambrano
+## 🔨 Funcionalidades del proyecto
+- `Operaciones basicas`:  Funciones básicas de una calculadora: suma, resta, multiplicación y división.
+- `Manejo de errores`: Operaciones precisas y manejo de errores para una experiencia de usuario suave.
 
 **Instalacion:
 
