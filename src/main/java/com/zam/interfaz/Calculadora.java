@@ -209,7 +209,7 @@ public class Calculadora extends javax.swing.JFrame {
         jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 50, 90, 260));
 
         btnEliminar.setFont(new java.awt.Font("Segoe UI", 0, 10)); // NOI18N
-        btnEliminar.setIcon(new javax.swing.ImageIcon("C:\\Zam Projects\\App_Calculadora\\src\\main\\java\\com\\zam\\img\\delete_icon.png")); // NOI18N
+        btnEliminar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/zam/img/delete_icon.png"))); // NOI18N
         btnEliminar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnEliminarActionPerformed(evt);
