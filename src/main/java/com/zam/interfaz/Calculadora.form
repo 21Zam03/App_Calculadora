@@ -353,7 +353,7 @@
               <Font name="Segoe UI" size="10" style="0"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/com/zam/img/delete_icon.png"/>
+              <Image iconType="3" name="/images/delete_icon.png"/>
             </Property>
           </Properties>
           <Events>
